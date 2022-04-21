@@ -42,7 +42,8 @@ export function CollectorConfiguration({ configURL, moduleName }) {
 					</CodeBlock>
 				</li>
 				<li>
-					Enable changes to the collector by setting <code>enabled: yes</code>.
+					Enable changes to the collector by setting{' '}
+					<code>{moduleName}: yes</code>.
 				</li>
 				<li>
 					Save the changes and restart the Agent with{' '}
