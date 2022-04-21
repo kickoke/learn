@@ -157,6 +157,8 @@ import { Grid, Box, BoxList, BoxListItem } from '@site/src/components/Grid/'
 import { OneLineInstallWget, OneLineInstallCurl } from '@site/src/components/OneLineInstall/'
 import { Install, InstallBox } from '@site/src/components/Install/'
 import { Calculator } from '@site/src/components/agent/dbCalc/'
+import { CollectorConfiguration, CollectorDebug } from '@site/src/components/Collectors/_collector-components.jsx'
+
 ```
 
 See each file for usage information, or reference a file where the component is already being used.
